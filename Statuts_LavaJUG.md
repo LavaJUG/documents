@@ -20,7 +20,7 @@ Ces réunions consistent en :
 
 ## Article 3 Siège :
 
-Le siège social est fixé au **Lava JUG - Pierre Colomb 40 Boulevard Arisitide Briand 63000 Clermont-Ferrand**
+Le siège social est fixé au **Lava JUG - Pierre Colomb 4 rue Jean Deschamps 63000 Clermont-Ferrand**
 
 Il pourra être transféré en tout autre lieu par simple décision du conseil d’administration.
 
@@ -58,7 +58,7 @@ Les membres du conseil d’administration ne sauraient être tenus responsables 
 
 ## Article 10 Conseil d’administration :
 
-L’association est administrée par un conseil d’administration (composé d’un minimum de deux membres et d’un maximum de ....... membres) élus par les membres, pour trois ans, par l’assemblée générale et rééligibles.
+L’association est administrée par un conseil d’administration (composé d’un minimum de deux membres et d’un maximum de 8 membres) élus par les membres, pour trois ans, par l’assemblée générale et rééligibles.
 
 En cas de vacance de poste, pour quelque raison que ce soit, le conseil d’administration peut coopter, à la majorité absolue des membres présents ou représentés, un ou plusieurs membres parmi les adhérents éligibles, et ce pour la durée du mandat restant à courir.
 
@@ -71,7 +71,7 @@ Tout membre du conseil d’administration qui, sans excuse, n’a pas assisté �
 
 ## Article 11 le bureau :
 
-Le bureau se réunit au moins une fois tous les six mois sur convocation du président.
+Le bureau se réunit au moins une fois par an sur convocation du président.
 
 Les décisions sont prises à la majorité des voix des membres présents ou représentés.
 
@@ -89,7 +89,7 @@ Elle entend et approuve les rapports moral et financier du conseil d’administr
 
 Les membres du conseil d’administration seront convoqués par les soins du président, quinze jours au moins avant la date fixée de l’assemblée générale. L’ordre du jour est indiqué sur les convocations.
 
-Le résident, assisté des membres du bureau, préside l’assemblée générale. En cas d’absence du président, il est remplacé par un des membres du bureau.
+Le président, assisté des membres du bureau, préside l’assemblée générale. En cas d’absence du président, il est remplacé par un des membres du bureau.
 
 Après épuisement de l’ordre du jour, il est procédé par vote, au remplacement des membres du conseil d’administration.
 
@@ -111,8 +111,14 @@ Le liquidateur est chargé d’accomplir les formalités de publicité y afféra
 
 ## Article 15 Règlement intérieur :
 
-Un règlement intérieur, établi par le conseil d’administration, est destiné à préciser les divers points non prévus par les statuts, notamment ceux qui concernent l’administration interne de l’association.
+Un règlement intérieur, peut être établi par le conseil d’administration qui le  fait  alors  approuver  par  l'assemblée  générale. Ce  règlement  éventuel est destiné à préciser les divers points non prévus par les statuts, notamment ceux qui concernent l’administration interne de l’association.
+
+## Article 16 Indemnité :
+
+Toutes les fonctions, y compris celles des membres du bureau, sont gratuites et bénévoles. Seuls les frais occasionnés par l’accomplissement de leur mandat sont remboursés sur justificatifs. Le rapport financier présenté à l’assemblée générale ordinaire présente, par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
+
 
 ---
 
 - *Créé le 09 mai 2011 à Clermont-Ferrand;*
+- *Mis à jour le 17 Juillet 2019 à Clermont-Ferrand;*
